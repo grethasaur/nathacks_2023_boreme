@@ -1,6 +1,7 @@
 # natHacks_2023_boreme
 
 EEG files were too big to upload.
+Devpost link containing our presentation: <https://devpost.com/software/brome>
 
 ## Inspiration
 
