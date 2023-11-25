@@ -1,4 +1,4 @@
-Personal Reflection on hackathon experience: 
+# Personal Reflection on hackathon experience: 
 
 Transitioning from my background in Psychology, where I pursued a deep understanding of the human mind, into a Machine Learning career marked a significant shift for me. As a Psychology graduate passionate about unraveling the complexities of the human mind, my journey into Machine Learning seemed like a leap into uncharted territory. However, bridging the apparent gap between these fields became my forte. Leveraging my expertise in neuropsychology, I played a pivotal role in our team's project by leading the development of our machine learning model. This involved converting raw brainwave data into a finely-tuned operational model, meticulously navigating the nuances of data cleaning, intricate feature extraction, and purposeful model selection. Each phase was instrumental in crafting a robust, high-performance model seamlessly integrated into our project's architecture.
 
