@@ -39,9 +39,3 @@ Crafting a unique and functional prototype through 3D printing showcased our abi
 
 Embarking on the BoreMe project was a profound learning experience for our team. In delving into neurotechnology and techniques, we expanded our collective knowledge, gaining insights into the intricate world of brainwave analysis. The journey taught us the value of patience, especially when training a machine learning model to decipher subtle neural signals. Resilience became our ally as we tackled challenges in hardware integration and prototype development, turning setbacks into stepping stones. Teamwork emerged as the linchpin of our success, as each member's unique expertise contributed to the realization of BoreMe. Ultimately, we learned that innovation thrives on collaboration, adaptability, and a shared commitment to pushing boundaries.
 
-## What's next for BoreMe
-
-The future for BoreMe holds exciting possibilities. Our immediate focus is on developing a fully functional app, seamlessly integrating the brainwave analysis capabilities of Muse S with real-time feedback from the Adafruit Feather v2. Taking it a step further, we plan to expand our bio-signal repertoire to include ECG, skin temperature, and skin conductance, providing a more comprehensive understanding of user engagement.
-
-Collaborations with dating app companies are on the horizon, as we aim to bring BoreMe's unique insights to a broader audience. By harnessing a combination of neurotechnology and physiological signals, we envision a future where BoreMe becomes an indispensable tool in deciphering and enhancing romantic connections. Stay tuned for a revolutionary approach to dating that goes beyond words and into the realm of bio-signals.
-
